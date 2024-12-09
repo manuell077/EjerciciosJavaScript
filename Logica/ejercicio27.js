@@ -10,7 +10,7 @@ for(let a = 1;a <=3 ; a++){
 }
 
 let promedio = acumulador / 3;
-
+console.log(promedio);
 
 let sacarPromedio = (ExamenFinal,TrabajoFinal,Parciales) => {
    
